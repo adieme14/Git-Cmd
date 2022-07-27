@@ -1,4 +1,4 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/adieme14/Git-Cmd/blob/f86111b6e85cb77f2ed9efc454d6be89b366333e/git-workflow-all.png)
 
 
 # Git Commands
