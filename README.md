@@ -1,6 +1,5 @@
 ![alt text](https://github.com/adieme14/Git-Cmd/blob/f86111b6e85cb77f2ed9efc454d6be89b366333e/git-workflow-all.png)
 
-
 # Git Commands
 
 
@@ -8,6 +7,9 @@
 ![git-flow-768x513](https://user-images.githubusercontent.com/14274827/91470661-9d5a8780-e8b2-11ea-9ccb-0d813d2e35d1.png)
 
 
+
+# A Visual Git Reference
+https://marklodato.github.io/visual-git-guide/index-en.html
 
 ## $git config
 
